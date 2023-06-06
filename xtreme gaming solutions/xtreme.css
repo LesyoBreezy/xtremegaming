@@ -36,13 +36,8 @@
 }
 
 .navbar .menu li a{
-<<<<<<< HEAD
-    color: rgb(255, 252, 252);
-    font-size: 17px;
-=======
     color: white;
     font-size: 19px;
->>>>>>> fa46ff93abcc34a4c745db3e0ca72f7bd9d7e92d
     font-weight: 600;
     margin-left: 25px;
 }
